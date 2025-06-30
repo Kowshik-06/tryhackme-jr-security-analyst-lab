@@ -1,23 +1,16 @@
-# tryhackme-jr-security-analyst-lab
 ## 📸 Screenshots
 
-### Brute-force Log Analysis
-![Brute-force](Screenshot%202025-06-30%20095750.png)
+Below are screenshots taken while working on the TryHackMe **Jr Security Analyst Intro** room. These demonstrate the hands-on investigation tasks including log analysis, malware hash lookup, phishing header review, and alert triage.
 
-### VirusTotal Malware Hash Result
-![VirusTotal](Screenshot%202025-06-30%20095812.png)
-
-### Suspicious Login Pattern Detected
-![Login Pattern](Screenshot%202025-06-30%20095919.png)
-
-### Email Phishing Header Analysis
-![Phishing](Screenshot%202025-06-30%20095934.png)
-
-### Alert Investigation - SOC Ticket
-![SOC Ticket](Screenshot%202025-06-30%20100108.png)
-
-### Malware IOC Investigation
-![IOC](Screenshot%202025-06-30%20100132.png)
-
-### Task Summary - TryHackMe Room
-![THM Task](Screenshot%202025-06-30%20100414.png)
+<p float="left">
+  <img src="Screenshot%202025-06-30%20095750.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20095812.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20095919.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20095934.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100108.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100132.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100141.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100244.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100333.png" width="400"/>
+  <img src="Screenshot%202025-06-30%20100513.png" width="400"/>
+</p>
