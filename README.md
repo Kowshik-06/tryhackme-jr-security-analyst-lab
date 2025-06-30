@@ -1,7 +1,4 @@
 ## 📸 Screenshots
-
-Below are screenshots taken while working on the TryHackMe **Jr Security Analyst Intro** room. These demonstrate the hands-on investigation tasks including log analysis, malware hash lookup, phishing header review, and alert triage.
-
 <p float="left">
   <img src="Screenshot%202025-06-30%20095750.png" width="400"/>
   <img src="Screenshot%202025-06-30%20095812.png" width="400"/>
