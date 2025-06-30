@@ -10,7 +10,6 @@ This project is based on the TryHackMe room **"Jr Security Analyst Intro"** whic
 - Investigated **login logs** to detect brute-force activity  
 - Analyzed **email headers** to identify phishing attempts  
 - Checked **malware hashes** on VirusTotal  
-- Used basic **OSINT techniques** to support alert decisions  
 - Documented all findings with screenshots
 
 ---
