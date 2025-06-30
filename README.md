@@ -27,13 +27,17 @@ This project is based on the TryHackMe room **"Jr Security Analyst Intro"** whic
 
 Below are the screenshots taken during the lab. They show my investigation progress, tools used, and the final task completion steps.
 
-![Screenshot](Screenshot%202025-06-30%20095750.png)  
-![Screenshot](Screenshot%202025-06-30%20095812.png)  
-![Screenshot](Screenshot%202025-06-30%20095919.png)  
-![Screenshot](Screenshot%202025-06-30%20095934.png)  
-![Screenshot](Screenshot%202025-06-30%20100108.png)  
-![Screenshot](Screenshot%202025-06-30%20100132.png)  
-![Screenshot](Screenshot%202025-06-30%20100141.png)  
-![Screenshot](Screenshot%202025-06-30%20100244.png)  
-![Screenshot](Screenshot%202025-06-30%20100333.png)  
-![Screenshot](Screenshot%202025-06-30%20100513.png)
+## 📸 Screenshots
+
+<p float="left">
+  <img src="Screenshot%202025-06-30%20095750.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20095812.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20095919.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20095934.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100108.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100132.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100141.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100244.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100333.png" width="600"/>
+  <img src="Screenshot%202025-06-30%20100513.png" width="600"/>
+</p>
