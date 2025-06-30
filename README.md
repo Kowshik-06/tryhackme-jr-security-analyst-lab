@@ -27,7 +27,6 @@ This project is based on the TryHackMe room **"Jr Security Analyst Intro"** whic
 
 Below are the screenshots taken during the lab. They show my investigation progress, tools used, and the final task completion steps.
 
-## 📸 Screenshots
 
 <p float="left">
   <img src="Screenshot%202025-06-30%20095750.png" width="600"/>
